@@ -1,0 +1,272 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "髪揺れ 前2"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "髪揺れ 前3"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "髪揺れ 横2"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "髪揺れ 横3"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "髪揺れ 後2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "髪揺れ 後3"
+		},
+		{
+			"Id": "ParamAhoge",
+			"GroupId": "",
+			"Name": "アホ毛揺れ"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "ツインテ揺れ"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "ツインテ揺れ2"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "ツインテ揺れ3"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "髪ハネ"
+		},
+		{
+			"Id": "ParamNekomimi",
+			"GroupId": "",
+			"Name": "ねこみみ揺れ"
+		},
+		{
+			"Id": "ParamTail",
+			"GroupId": "",
+			"Name": "しっぽ揺れ"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "しっぽ揺れ2"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "うで揺れ"
+		},
+		{
+			"Id": "ParamCoat",
+			"GroupId": "",
+			"Name": "ふく揺れ"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "ふく揺れ2"
+		},
+		{
+			"Id": "ParamRibbon",
+			"GroupId": "",
+			"Name": "リボン揺れ"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "リボン揺れ2"
+		},
+		{
+			"Id": "ParamSkirt",
+			"GroupId": "",
+			"Name": "スカート揺れ"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "セット"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 下絵 ]"
+		},
+		{
+			"Id": "Part2",
+			"Name": "頭"
+		},
+		{
+			"Id": "Part9",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part10",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part3",
+			"Name": "眉"
+		},
+		{
+			"Id": "Part4",
+			"Name": "髪"
+		},
+		{
+			"Id": "Part5",
+			"Name": "目"
+		},
+		{
+			"Id": "Part8",
+			"Name": "口"
+		},
+		{
+			"Id": "Part27",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part6",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part7",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part11",
+			"Name": "口サンプル"
+		},
+		{
+			"Id": "Part14",
+			"Name": "ねこみみ"
+		},
+		{
+			"Id": "Part15",
+			"Name": "左"
+		},
+		{
+			"Id": "Part16",
+			"Name": "右"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

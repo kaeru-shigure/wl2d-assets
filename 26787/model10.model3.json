@@ -1,0 +1,64 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "model10.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "model10.physics3.json",
+		"DisplayInfo": "model10.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "angry",
+				"File": "angry.exp3.json"
+			},
+			{
+				"Name": "cheek",
+				"File": "cheek.exp3.json"
+			},
+			{
+				"Name": "doll_on",
+				"File": "doll_on.exp3.json"
+			},
+			{
+				"Name": "doll_rightarm",
+				"File": "doll_rightarm.exp3.json"
+			},
+			{
+				"Name": "fear",
+				"File": "fear.exp3.json"
+			},
+			{
+				"Name": "girl_off",
+				"File": "girl_off.exp3.json"
+			},
+			{
+				"Name": "sad",
+				"File": "sad.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/bye.motion3.json"
+				},
+				{
+					"File": "motions/no.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

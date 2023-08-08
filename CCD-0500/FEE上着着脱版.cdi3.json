@@ -1,0 +1,276 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "PARAM_ANGLE_X",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "PARAM_ANGLE_Y",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "PARAM_EYE",
+			"GroupId": "",
+			"Name": "＞＜"
+		},
+		{
+			"Id": "PARAM_WEAR",
+			"GroupId": "",
+			"Name": "上着"
+		},
+		{
+			"Id": "PARAM_ANGLE_Z",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "PARAM_EYE_L_OPEN",
+			"GroupId": "",
+			"Name": "左眼　開閉"
+		},
+		{
+			"Id": "PARAM_EYE_L_SMILE",
+			"GroupId": "",
+			"Name": "左眼　笑顔"
+		},
+		{
+			"Id": "PARAM_EYE_R_OPEN",
+			"GroupId": "",
+			"Name": "右眼　開閉"
+		},
+		{
+			"Id": "PARAM_EYE_R_SMILE",
+			"GroupId": "",
+			"Name": "右眼　笑顔"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_X",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_Y",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "PARAM_BROW_L_Y",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "PARAM_BROW_R_Y",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "PARAM_CHEEK",
+			"GroupId": "",
+			"Name": "頬"
+		},
+		{
+			"Id": "PARAM_MOUTH_FORM",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "PARAM_MOUTH_OPEN_Y",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_X",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Y",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "PARAM_BREATH",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "PARAM_HAIR_FRONT",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "PARAM_HAIR_SIDE",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "PARAM_HAIR_BACK",
+			"GroupId": "",
+			"Name": "髪揺れ　後ろ"
+		},
+		{
+			"Id": "PARAM_TEAR",
+			"GroupId": "",
+			"Name": "涙"
+		},
+		{
+			"Id": "PARAM_RAGE",
+			"GroupId": "",
+			"Name": "怒り"
+		},
+		{
+			"Id": "PARAM_SLEEP",
+			"GroupId": "",
+			"Name": "zZZ"
+		},
+		{
+			"Id": "PARAM_S",
+			"GroupId": "",
+			"Name": "!"
+		},
+		{
+			"Id": "PARAM_S2",
+			"GroupId": "",
+			"Name": "!?"
+		},
+		{
+			"Id": "PARAM_Q",
+			"GroupId": "",
+			"Name": "?"
+		},
+		{
+			"Id": "PARAM_BLUE",
+			"GroupId": "",
+			"Name": "青ざめ"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part15",
+			"Name": "差分.psd"
+		},
+		{
+			"Id": "Part14",
+			"Name": "追加01.psd"
+		},
+		{
+			"Id": "Part13",
+			"Name": "GB背景.psd"
+		},
+		{
+			"Id": "Part12",
+			"Name": "8.psd"
+		},
+		{
+			"Id": "Part11",
+			"Name": "涙差分.psd"
+		},
+		{
+			"Id": "Part10",
+			"Name": "青ざめ.psd"
+		},
+		{
+			"Id": "Part8",
+			"Name": "6.psd"
+		},
+		{
+			"Id": "Part7",
+			"Name": "5.psd"
+		},
+		{
+			"Id": "Part6",
+			"Name": "3.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "2.psd"
+		},
+		{
+			"Id": "Part4",
+			"Name": "1.psd"
+		},
+		{
+			"Id": "Part3",
+			"Name": "インナー.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "hutae.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "matuge.psd"
+		},
+		{
+			"Id": "PARTS_01_BODY",
+			"Name": "体"
+		},
+		{
+			"Id": "PARTS_01_NECK",
+			"Name": "首"
+		},
+		{
+			"Id": "PARTS_01_HAIR_BACK_001",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "PARTS_01_HAIR_SIDE_001",
+			"Name": "横髪"
+		},
+		{
+			"Id": "PARTS_01_HAIR_FRONT_001",
+			"Name": "前髪"
+		},
+		{
+			"Id": "PARTS_01_EAR_001",
+			"Name": "耳"
+		},
+		{
+			"Id": "PARTS_01_NOSE_001",
+			"Name": "鼻"
+		},
+		{
+			"Id": "PARTS_01_MOUTH_001",
+			"Name": "口"
+		},
+		{
+			"Id": "PARTS_01_BROW_001",
+			"Name": "まゆ毛"
+		},
+		{
+			"Id": "PARTS_01_EYE_BALL_001",
+			"Name": "目玉"
+		},
+		{
+			"Id": "PARTS_01_EYE_001",
+			"Name": "目"
+		},
+		{
+			"Id": "PARTS_01_FACE_001",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part9",
+			"Name": "aozame のコピー"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"PARAM_ANGLE_X",
+			"PARAM_ANGLE_Y"
+		],
+		[
+			"PARAM_MOUTH_FORM",
+			"PARAM_MOUTH_OPEN_Y"
+		]
+	]
+}

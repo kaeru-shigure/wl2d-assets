@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "FEE上着着脱版.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "FEE上着着脱版.physics3.json",
+		"DisplayInfo": "FEE上着着脱版.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
